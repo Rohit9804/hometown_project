@@ -1,0 +1,140 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    background: linear-gradient(#E8CBC0, #636FA4)  ;
+}
+
+img {
+    width: 100px;
+    border-radius: 50%;
+}
+.one{
+    background-image: url("https://media.giphy.com/media/3ohuPfjYLAOx60KiQg/giphy.gif");
+    background-size:cover ;
+    padding: 10px 0 40px 0;
+    width: 90000000000;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    padding: 1px 9px;
+}
+
+#mainhead {
+   background-color: #C9DFE1DC;
+   border-radius: 10px;
+   padding: 1px 11px;
+}
+#mainhead2{
+    margin-top: 1px;
+    background-color: #AFB199;
+    color: antiquewhite;
+    border-radius: 10px;
+    padding: 1px 7px;
+    width: 500px;
+    height: 90px;
+}
+.subhead{
+    display: flex;
+    justify-content: center;
+    padding: 20PX;
+    border-radius: 20px;
+    align-items: center;
+    align-content: space-between;
+    margin-top: 1px;
+}
+#a {
+   background-color: #7e99a8;
+   background-size: cover;
+   padding: 20px;
+   border-radius: 5px;
+}
+#a:hover {
+    background-color: #636FA4;
+}
+#c {
+    background-color: #ABA487;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+#c:hover {
+    background-color: #636FA4;
+}
+#b {
+    margin-left: 8px;
+    background-color: #BC8F8F;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 5px;
+}
+#b:hover {
+    background-color: #636FA4;
+}
+#d {
+
+    
+    background-color: #D8BFD8;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 5px;
+}
+#d:hover {
+    background-color: #636FA4;
+}
+
+.last{
+    width: 400px;
+    height:auto;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #598A93;
+    color: #2b2839;
+    border-bottom: 6px solid #574891;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+.last:hover {
+    background-color:#a39595;
+}
+#tot{
+    border-radius: 20px;
+    width: 170px;
+    margin-right: 10px;
+}
+footer{
+	position: relative;
+	width: 100%;
+	height: 200px;
+	background: #101010;
+    color: #a39595;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+button{
+    background-color: #7e99a8;
+    padding: 4px 9px;
+}
+button:hover{
+    background-color:#574891;
+}
+.subhead2{
+    margin-top: -40px;
+}
+#name{
+    background-color: #171717;
+    padding: 10px;
+}
+#headd:hover{
+    color: #574891
+}
